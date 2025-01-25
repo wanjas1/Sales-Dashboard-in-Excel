@@ -1,5 +1,4 @@
 
-# Sales Dashboard Project This project contains a Sales Dashboard built using Microsoft Excel, showcasing data visualization and analysis for ABC Fashion and Mount Dress chains of a production company. This repository includes: - Sales Dashboard (Excel file) - Project Report (Word document)
 ![image](https://github.com/user-attachments/assets/c69dd8a5-2061-4619-a08e-0f917743ef8f)
 Sales Dashboard Project Report
 1. Executive Summary
